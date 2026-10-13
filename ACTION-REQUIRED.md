@@ -83,7 +83,7 @@ Line numbers apply to the local files as inspected on the preparation date. Curr
 |---|---|
 | [5](https://github.com/karrijayanth65/SOC-Investigations/blob/main/LetsDefend/README.md#L5) | **Documentation status:** Completed |
 | [7](https://github.com/karrijayanth65/SOC-Investigations/blob/main/LetsDefend/README.md#L7) | **Personally verified executions in this workspace:** Not recorded |
-| [9](https://github.com/karrijayanth65/SOC-Investigations/blob/main/LetsDefend/README.md#L9) | [Portfolio home](../README.md) · [Evidence requirements](../EVIDENCE-STATUS.md) |
+| [9](https://github.com/karrijayanth65/SOC-Investigations/blob/main/LetsDefend/README.md#L9) | [Portfolio home](README.md) · [Evidence requirements](EVIDENCE-STATUS.md) |
 | [32](https://github.com/karrijayanth65/SOC-Investigations/blob/main/LetsDefend/README.md#L32) | Every case contains a README, analyst note, `reports/investigation.md`, an evidence index, and captioned screenshots. The original event dates remain in the case narrative; missing execution details are Not recorded. |
 
 ### LetsDefend/malicious-file-analysis/README.md
@@ -918,7 +918,7 @@ Line numbers apply to the local files as inspected on the preparation date. Curr
 |---|---|
 | [5](https://github.com/karrijayanth65/SOC-Investigations/blob/main/TryHackMe/README.md#L5) | **Documentation status:** Completed |
 | [7](https://github.com/karrijayanth65/SOC-Investigations/blob/main/TryHackMe/README.md#L7) | **Personally verified executions in this workspace:** Not recorded |
-| [9](https://github.com/karrijayanth65/SOC-Investigations/blob/main/TryHackMe/README.md#L9) | [Portfolio home](../README.md) · [Evidence requirements](../EVIDENCE-STATUS.md) |
+| [9](https://github.com/karrijayanth65/SOC-Investigations/blob/main/TryHackMe/README.md#L9) | [Portfolio home](README.md) · [Evidence requirements](EVIDENCE-STATUS.md) |
 | [23](https://github.com/karrijayanth65/SOC-Investigations/blob/main/TryHackMe/README.md#L23) | Every case contains a README, analyst note, `reports/investigation.md`, an evidence index, and captioned screenshots. The original event dates remain in the case narrative; missing execution details are Not recorded. |
 
 ### TryHackMe/phishing-email-analysis/README.md
