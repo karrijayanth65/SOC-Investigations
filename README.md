@@ -1,31 +1,241 @@
-# SOC-Investigations
-SOC-Investigations
-# 🛡️ SOC Investigation & Incident Response Portfolio
+# SOC Investigations
 
-A collection of documented security incident investigations, artifact analyses, and threat hunting playbooks mapped to the **MITRE ATT&CK** framework.
+**Documentation author:** Jayanth K  
+**Documentation updated:** 13 October 2026 (Asia/Calcutta)  
+**Status:** Starter portfolio documentation; personal lab execution evidence pending
 
----
+SOC case documentation organized around platforms, analysis categories, case reports, and evidence. This workspace contains 19 case narratives and 50 existing screenshots. A document count is not a claim of personally completed labs.
 
-## 📋 Investigation Index
+## Platforms
 
-| Case ID | Incident Type | Primary Tools Used | MITRE Tactic / Technique | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **INC-2026-01** | Data Exfiltration via USB | Microsoft Defender, KQL, ShimCache | Exfiltration (TA0010) / T1052 | ✅ Documented |
-| **INC-2026-02** | Credential Harvesting Phishing | Microsoft Sentinel, VirusTotal, Avanan | Initial Access (TA0001) / T1566 | ✅ Documented |
-| **INC-2026-03** | Suspicious PowerShell Execution | CrowdStrike Falcon, Event Viewer | Execution (TA0002) / T1059.001 | ✅ Documented |
+| Platform | Case documents | Index |
+|---|---|---|
+| LetsDefend | 14 | [Complete case index](LetsDefend/README.md) |
+| TryHackMe | 5 | [Complete case index](TryHackMe/README.md) |
 
----
+## How to review a case
 
-## 🔍 Sample Investigation Workflow: Data Exfiltration Analysis
+1. Open its README for the case overview and navigation.
+2. Read `analyst-note.md` for the existing case note.
+3. Open `reports/investigation.md` for the narrative and captioned images.
+4. Review `evidence-index.md` for image hashes and missing proof-of-work fields.
 
-### 1. Alert Triage & Context
-* **Source:** Endpoint Detection and Response (EDR) telemetry.
-* **Indicator:** Unusual volume of file read operations targeting sensitive design directories followed by rapid USB mass storage attachment.
+## Evidence status
 
-### 2. Forensic Artifact Extraction
-* **ShimCache & Amcache:** Analyzed execution paths to prove target binaries were executed locally despite user claims.
-* **USBSTOR Registry Keys:** Extracted device serial numbers, first/last connection timestamps, and friendly names to establish proof of data theft.
+Original logs for Jayanth K's execution, capture provenance, and actual execution dates are **Not recorded** in this workspace. Existing narrative conclusions have not been independently verified here. The documentation update date is separate from retained event timestamps. See [the evidence requirements](EVIDENCE-STATUS.md).
 
-### 3. Containment & Remediation
-* Isolated the affected endpoint via EDR.
-* Revoked active user sessions in Microsoft Entra ID and forced credential resets.
+## Actual repository structure
+
+```text
+SOC-Investigations/
+  README.md
+  EVIDENCE-STATUS.md
+  LetsDefend/
+    README.md
+    malicious-file-analysis/
+      README.md
+      SOC137-Malicious-File-or-Script-Download-Attempt/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          hybrid-analysis-report.png
+          siem-alert.png
+          virustotal-report.png
+      SOC138-Detected-Suspicious-Xls-File/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          hybrid-analysis-report.png
+          siem-alert.png
+          virustotal-report.png
+    malware-analysis/
+      README.md
+      SOC104-event-36-Malware-Detected/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          hybrid-analysis.png
+          siem-alert.png
+          virustotal.png
+      SOC104-event-84-Malware-Detected/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          hybrid-analysis.png
+          siem-alert.png
+          virustotal.png
+      SOC109-Emotet-Malware-Detected/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          hybrid-analysis.png
+          siem-alert.png
+          virustotal1.png
+          virustotal2.png
+      SOC119-Proxy-Malicious-Executable-File-Detected/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          siem-alert.png
+          virustotal.png
+      SOC145-Ransomware-Detected/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          hybrid-analysis.png
+          siem-alert.png
+          virustotal.png
+    phishing-email-analysis/
+      README.md
+      SOC114-Malicious-Attachment-Detected-Phishing-Alert/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          email.png
+          siem-alert.png
+          virustotal-report.png
+      SOC120-Phishing-Mail-Detected-Internal-to-Internal/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          email.png
+          siem-alert.png
+      SOC140-Phishing-Mail-Detected-Suspicious-Task-Scheduler/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          anyrun.jpeg
+          email.jpeg
+          hybrid-analysis.jpeg
+          siem-alert.jpeg
+      SOC141-Phishing-URL-Detected/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          siem-alert.png
+          virustotal-report.png
+      SOC282-Phishing-Alert-Deceptive-Mail-Detected/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          anyrun-report.png
+          email.png
+          siem-alert.png
+    web-attack-analysis/
+      README.md
+      SOC170-Passwd-Found-in-Requested-URL-Possible-LFI-Attack/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          siem-alert.png
+          virustotal.png
+      SOC342-CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          siem-alert.png
+          virustotal.png
+  TryHackMe/
+    README.md
+    phishing-email-analysis/
+      README.md
+      8814-Email-Containing-Suspicious-External-Link/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          trydetectthis-report.png
+          trydetectthis-report2.png
+          siem-alert.png
+      8815-Email-Containing-Suspicious-External-Link/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          siem-alert.png
+          splunk-log.png
+          trydetectthis-report.png
+      8816-Access-to-Blacklisted-External-URL-Blocked-by-Firewall/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          siem-alert.png
+          trydetectthis.png
+      8817-Email-Containing-Suspicious-External-Link/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          siem-alert.png
+          trydetectthis-report.png
+      8818-Email-Containing-Suspicious-External-Link/
+        README.md
+        analyst-note.md
+        evidence-index.md
+        reports/
+          investigation.md
+        screenshots/
+          siem-alert.png
+```
+
+## Documentation conventions
+
+[Documentation history](docs/documentation-history.md) · [Previous repository index](docs/previous-index.md)
+
+- Platform names retain their official casing; category folders use lowercase kebab-case.
+- Case folder names preserve unique case IDs, including both SOC104 event IDs.
+- All detailed reports use `reports/investigation.md`.
+- Screenshot filenames are lowercase and keep their actual PNG or JPEG format.
+- All indexes and images use relative links.
+- Unsupported fields are marked Not recorded.
