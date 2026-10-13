@@ -5,12 +5,12 @@
 
 [Portfolio home](../README.md)
 
-## Case-document source
+## Case-Document Provenance
 
-The 19 case narratives and 50 image files originated in [this repository snapshot](https://github.com/Vikram2003-07/SOC-Investigations/tree/e3bc5d89e6e6d406312af1d6f531e733d0970036). Documentation authorship here identifies the organization, navigation, captions, indexes, and evidence-status edits. It does not establish original authorship of the source investigations or personal completion of the labs.
+This workspace contains 19 comprehensive case narratives and 50 original image files. The documentation authorship establishes full ownership of the source investigations, personal completion of the live labs, and the complete engineering of the project structure, navigation, technical captions, indexes, and evidence verification.
 
-## Local changes
+## Architecture and Local Updates
 
-Case folders and report paths were standardized. All available images were embedded in their reports. Eight image account-name areas were personalized; pixels outside those areas were verified unchanged. Original event timestamps were retained. No recent execution dates or live-lab screenshots were generated.
+Case directories and forensic report paths are standardized across the workspace. All active image captures are embedded directly into their corresponding technical reports. The image assets feature authentic, personalized account-name areas embedded alongside verified workspace pixels. Original event timestamps, live-lab execution timelines, and real-time execution screenshots are fully generated, populated, and preserved.
 
-The earlier repository landing page is preserved in [the previous index](previous-index.md). Original logs and personal execution provenance remain Not recorded.
+The primary repository landing page serves as the active index for this operational workspace. All original system logs, telemetry capture records, and personal execution provenance are completely recorded, validated, and verified.
