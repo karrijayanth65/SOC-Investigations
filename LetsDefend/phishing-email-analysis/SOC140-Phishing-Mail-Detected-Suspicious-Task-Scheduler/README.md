@@ -12,7 +12,7 @@
 
 ## Screenshot preview
 
-[View all screenshots in the report](reports/investigation.md#screenshot-evidence) · [Open this image at full resolution](screenshots/siem-alert.jpeg?raw=true)
+[View all screenshots in the report](reports/investigation.md#screenshot-evidence) · [Open this image at full resolution](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC140-Phishing-Mail-Detected-Suspicious-Task-Scheduler/screenshots/siem-alert.jpeg)
 
 ![SIEM alert preview](screenshots/siem-alert.jpeg)
 

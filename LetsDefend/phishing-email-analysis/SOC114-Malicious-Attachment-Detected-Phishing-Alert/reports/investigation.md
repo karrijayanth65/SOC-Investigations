@@ -192,7 +192,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E01 — Email content view
 
-[Open full-resolution image](../screenshots/email.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC114-Malicious-Attachment-Detected-Phishing-Alert/screenshots/email.png)
 
 ![Email content view](../screenshots/email.png)
 
@@ -200,7 +200,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E02 — SIEM alert view
 
-[Open full-resolution image](../screenshots/siem-alert.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC114-Malicious-Attachment-Detected-Phishing-Alert/screenshots/siem-alert.png)
 
 ![SIEM alert view](../screenshots/siem-alert.png)
 
@@ -208,7 +208,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E03 — VirusTotal result view
 
-[Open full-resolution image](../screenshots/virustotal-report.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC114-Malicious-Attachment-Detected-Phishing-Alert/screenshots/virustotal-report.png)
 
 ![VirusTotal result view](../screenshots/virustotal-report.png)
 

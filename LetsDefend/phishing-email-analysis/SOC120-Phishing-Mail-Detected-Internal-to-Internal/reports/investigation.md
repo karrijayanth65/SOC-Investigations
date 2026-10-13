@@ -96,7 +96,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E01 — Email content view
 
-[Open full-resolution image](../screenshots/email.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC120-Phishing-Mail-Detected-Internal-to-Internal/screenshots/email.png)
 
 ![Email content view](../screenshots/email.png)
 
@@ -104,7 +104,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E02 — SIEM alert view
 
-[Open full-resolution image](../screenshots/siem-alert.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC120-Phishing-Mail-Detected-Internal-to-Internal/screenshots/siem-alert.png)
 
 ![SIEM alert view](../screenshots/siem-alert.png)
 

@@ -105,7 +105,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E01 — ANY.RUN sandbox view
 
-[Open full-resolution image](../screenshots/anyrun.jpeg?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC140-Phishing-Mail-Detected-Suspicious-Task-Scheduler/screenshots/anyrun.jpeg)
 
 ![ANY.RUN sandbox view](../screenshots/anyrun.jpeg)
 
@@ -113,7 +113,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E02 — Email content view
 
-[Open full-resolution image](../screenshots/email.jpeg?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC140-Phishing-Mail-Detected-Suspicious-Task-Scheduler/screenshots/email.jpeg)
 
 ![Email content view](../screenshots/email.jpeg)
 
@@ -121,7 +121,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E03 — Hybrid Analysis result view
 
-[Open full-resolution image](../screenshots/hybrid-analysis.jpeg?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC140-Phishing-Mail-Detected-Suspicious-Task-Scheduler/screenshots/hybrid-analysis.jpeg)
 
 ![Hybrid Analysis result view](../screenshots/hybrid-analysis.jpeg)
 
@@ -129,7 +129,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E04 — SIEM alert view
 
-[Open full-resolution image](../screenshots/siem-alert.jpeg?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC140-Phishing-Mail-Detected-Suspicious-Task-Scheduler/screenshots/siem-alert.jpeg)
 
 ![SIEM alert view](../screenshots/siem-alert.jpeg)
 

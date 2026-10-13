@@ -134,7 +134,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E01 — ANY.RUN sandbox view
 
-[Open full-resolution image](../screenshots/anyrun-report.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC282-Phishing-Alert-Deceptive-Mail-Detected/screenshots/anyrun-report.png)
 
 ![ANY.RUN sandbox view](../screenshots/anyrun-report.png)
 
@@ -142,7 +142,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E02 — Email content view
 
-[Open full-resolution image](../screenshots/email.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC282-Phishing-Alert-Deceptive-Mail-Detected/screenshots/email.png)
 
 ![Email content view](../screenshots/email.png)
 
@@ -150,7 +150,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E03 — SIEM alert view
 
-[Open full-resolution image](../screenshots/siem-alert.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC282-Phishing-Alert-Deceptive-Mail-Detected/screenshots/siem-alert.png)
 
 ![SIEM alert view](../screenshots/siem-alert.png)
 

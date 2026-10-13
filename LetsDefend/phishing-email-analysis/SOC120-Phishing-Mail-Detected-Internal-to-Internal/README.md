@@ -12,7 +12,7 @@
 
 ## Screenshot preview
 
-[View all screenshots in the report](reports/investigation.md#screenshot-evidence) · [Open this image at full resolution](screenshots/siem-alert.png?raw=true)
+[View all screenshots in the report](reports/investigation.md#screenshot-evidence) · [Open this image at full resolution](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/phishing-email-analysis/SOC120-Phishing-Mail-Detected-Internal-to-Internal/screenshots/siem-alert.png)
 
 ![SIEM alert preview](screenshots/siem-alert.png)
 

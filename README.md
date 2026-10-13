@@ -60,5 +60,5 @@ Every case README has an alert preview and a link directly to its report's scree
 - Case folder names preserve unique case IDs, including both SOC104 event IDs.
 - All detailed reports use `reports/investigation.md`.
 - Screenshot filenames are lowercase and keep their actual PNG or JPEG format.
-- All indexes and images use relative links.
+- Navigation and image embeds use relative links; full-resolution image links use direct image URLs.
 - Unsupported fields are marked Not recorded.

@@ -12,7 +12,7 @@
 
 ## Screenshot preview
 
-[View all screenshots in the report](reports/investigation.md#screenshot-evidence) · [Open this image at full resolution](screenshots/siem-alert.png?raw=true)
+[View all screenshots in the report](reports/investigation.md#screenshot-evidence) · [Open this image at full resolution](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/TryHackMe/phishing-email-analysis/8817-Email-Containing-Suspicious-External-Link/screenshots/siem-alert.png)
 
 ![SIEM alert preview](screenshots/siem-alert.png)
 

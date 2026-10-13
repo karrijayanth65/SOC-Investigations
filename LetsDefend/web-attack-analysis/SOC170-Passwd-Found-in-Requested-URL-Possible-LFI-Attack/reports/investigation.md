@@ -108,7 +108,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E01 — SIEM alert view
 
-[Open full-resolution image](../screenshots/siem-alert.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/web-attack-analysis/SOC170-Passwd-Found-in-Requested-URL-Possible-LFI-Attack/screenshots/siem-alert.png)
 
 ![SIEM alert view](../screenshots/siem-alert.png)
 
@@ -116,7 +116,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E02 — VirusTotal result view
 
-[Open full-resolution image](../screenshots/virustotal.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/LetsDefend/web-attack-analysis/SOC170-Passwd-Found-in-Requested-URL-Possible-LFI-Attack/screenshots/virustotal.png)
 
 ![VirusTotal result view](../screenshots/virustotal.png)
 

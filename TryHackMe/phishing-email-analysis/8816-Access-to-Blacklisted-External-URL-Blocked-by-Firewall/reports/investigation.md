@@ -133,7 +133,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E01 — SIEM alert view
 
-[Open full-resolution image](../screenshots/siem-alert.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/TryHackMe/phishing-email-analysis/8816-Access-to-Blacklisted-External-URL-Blocked-by-Firewall/screenshots/siem-alert.png)
 
 ![SIEM alert view](../screenshots/siem-alert.png)
 
@@ -141,7 +141,7 @@ Images fit GitHub's content width. For readable technical text, use **Open full-
 
 ### E02 — TryDetectThis result view
 
-[Open full-resolution image](../screenshots/trydetectthis.png?raw=true)
+[Open full-resolution image](https://raw.githubusercontent.com/karrijayanth65/SOC-Investigations/refs/heads/main/TryHackMe/phishing-email-analysis/8816-Access-to-Blacklisted-External-URL-Blocked-by-Firewall/screenshots/trydetectthis.png)
 
 ![TryDetectThis result view](../screenshots/trydetectthis.png)
 
