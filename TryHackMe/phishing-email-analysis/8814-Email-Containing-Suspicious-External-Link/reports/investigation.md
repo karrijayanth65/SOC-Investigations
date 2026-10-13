@@ -10,6 +10,10 @@
 
 [Case overview](../README.md) · [Analyst note](../analyst-note.md) · [Evidence index](../evidence-index.md)
 
+## Quick navigation
+
+[Investigation narrative](#existing-investigation-narrative) · [Evidence register](#evidence-register) · [Screenshots](#screenshot-evidence) · [Limitations](#constraints-and-limitations)
+
 ## Objective and scope
 
 Organize the existing case narrative and its available screenshots for review. Technical claims in the narrative have not been independently validated against Jayanth K's original lab logs in this workspace.
@@ -148,7 +152,11 @@ The sender domain and embedded onboarding URL appear legitimate and benign. No e
 
 ## Screenshot evidence
 
+Images fit GitHub's content width. For readable technical text, use **Open full-resolution image**, then click the image to toggle its native size.
+
 ### E01 — TryDetectThis result view
+
+[Open full-resolution image](../screenshots/trydetectthis-report.png?raw=true)
 
 ![TryDetectThis result view](../screenshots/trydetectthis-report.png)
 
@@ -156,11 +164,15 @@ The sender domain and embedded onboarding URL appear legitimate and benign. No e
 
 ### E02 — TryDetectThis result view
 
+[Open full-resolution image](../screenshots/trydetectthis-report2.png?raw=true)
+
 ![TryDetectThis result view](../screenshots/trydetectthis-report2.png)
 
 *File: `trydetectthis-report2.png`. Existing image; no additional image edits. Personal capture date and original log provenance: Not recorded.*
 
 ### E03 — SIEM alert view
+
+[Open full-resolution image](../screenshots/siem-alert.png?raw=true)
 
 ![SIEM alert view](../screenshots/siem-alert.png)
 

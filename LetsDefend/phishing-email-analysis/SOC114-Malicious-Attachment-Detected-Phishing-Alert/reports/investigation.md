@@ -10,6 +10,10 @@
 
 [Case overview](../README.md) · [Analyst note](../analyst-note.md) · [Evidence index](../evidence-index.md)
 
+## Quick navigation
+
+[Investigation narrative](#existing-investigation-narrative) · [Evidence register](#evidence-register) · [Screenshots](#screenshot-evidence) · [Limitations](#constraints-and-limitations)
+
 ## Objective and scope
 
 Organize the existing case narrative and its available screenshots for review. Technical claims in the narrative have not been independently validated against Jayanth K's original lab logs in this workspace.
@@ -184,7 +188,11 @@ RemcosRAT is a Remote Access Trojan capable of:
 
 ## Screenshot evidence
 
+Images fit GitHub's content width. For readable technical text, use **Open full-resolution image**, then click the image to toggle its native size.
+
 ### E01 — Email content view
+
+[Open full-resolution image](../screenshots/email.png?raw=true)
 
 ![Email content view](../screenshots/email.png)
 
@@ -192,11 +200,15 @@ RemcosRAT is a Remote Access Trojan capable of:
 
 ### E02 — SIEM alert view
 
+[Open full-resolution image](../screenshots/siem-alert.png?raw=true)
+
 ![SIEM alert view](../screenshots/siem-alert.png)
 
 *File: `siem-alert.png`. Existing image; no additional image edits. Personal capture date and original log provenance: Not recorded.*
 
 ### E03 — VirusTotal result view
+
+[Open full-resolution image](../screenshots/virustotal-report.png?raw=true)
 
 ![VirusTotal result view](../screenshots/virustotal-report.png)
 

@@ -10,6 +10,14 @@
 
 [Platform index](../../README.md) · [Category index](../README.md) · [Portfolio home](../../../README.md)
 
+## Screenshot preview
+
+[View all screenshots in the report](reports/investigation.md#screenshot-evidence) · [Open this image at full resolution](screenshots/siem-alert.png?raw=true)
+
+![SIEM alert preview](screenshots/siem-alert.png)
+
+*Existing SIEM alert image: `siem-alert.png`. Open the full-resolution image and click it to enlarge small text. Image treatment and provenance are recorded in the [evidence index](evidence-index.md).*
+
 ## Case overview
 
 ### 📌 Overview
