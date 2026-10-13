@@ -5,7 +5,8 @@
 **Platform:** TryHackMe  
 **Category:** phishing-email-analysis  
 **Case ID:** 8814  
-**Status:** Documentation organized; personal lab execution not verified
+**Documentation status:** Completed
+**Lab execution verification:** Not recorded
 
 [Platform index](../../README.md) · [Category index](../README.md) · [Portfolio home](../../../README.md)
 

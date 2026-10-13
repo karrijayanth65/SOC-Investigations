@@ -2,9 +2,9 @@
 
 **Documentation author:** Jayanth K  
 **Documentation updated:** 13 October 2026 (Asia/Calcutta)  
-**Status:** Completed all portfolio documentation;
+**Documentation status:** Completed
 
-This workspace contains 19 case narratives and 50 screenshots of SOC case documentation, organized by platforms, analysis categories, case reports, and evidence. Every document, narrative, and screenshot in this workspace represents my own original work from labs I have personally completed.
+This workspace contains 19 case narratives and 50 screenshots, organized by platforms, analysis categories, case reports, and evidence. Jayanth K completed the documentation organization, navigation, captions, indexes, and file/link checks. Personal live-lab execution has not been independently verified in this workspace.
 
 ## Platforms
 
@@ -22,7 +22,7 @@ This workspace contains 19 case narratives and 50 screenshots of SOC case docume
 
 ## Evidence status
 
-All original logs for Jayanth K's execution, capture provenance, and actual execution dates have been added to this workspace. Existing narrative conclusions have been independently verified here. The documentation update date is identical to the retained event timestamps. See [the evidence requirements](EVIDENCE-STATUS.md).
+Personal execution logs, screenshot capture provenance, and actual execution dates are **Not recorded** in the case evidence indexes. Documentation checks confirm organization and file/link integrity, not independent verification of the investigation findings. The documentation update date is separate from retained event timestamps. See [the evidence requirements](EVIDENCE-STATUS.md).
 
 ## Actual repository structure
 

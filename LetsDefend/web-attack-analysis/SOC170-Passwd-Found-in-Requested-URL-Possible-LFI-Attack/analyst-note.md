@@ -5,7 +5,8 @@
 **Platform:** LetsDefend  
 **Category:** web-attack-analysis  
 **Case ID:** SOC170  
-**Status:** Documentation organized; personal lab execution not verified
+**Documentation status:** Completed
+**Lab execution verification:** Not recorded
 
 [Case overview](README.md) · [Detailed investigation](reports/investigation.md) · [Evidence index](evidence-index.md)
 

@@ -2,6 +2,7 @@
 
 **Documentation author:** Jayanth K  
 **Documentation updated:** 13 October 2026
+**Documentation status:** Completed
 
 [Platform index](../README.md) · [Portfolio home](../../README.md)
 

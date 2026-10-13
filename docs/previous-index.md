@@ -2,6 +2,7 @@
 
 **Documentation author:** Jayanth K  
 **Documentation updated:** 13 October 2026
+**Documentation status:** Completed
 
 This preserves the earlier landing page before the platform-and-case organization update. Its original claims are retained as historical text and were not independently re-validated by this publication.
 

@@ -5,7 +5,8 @@
 **Platform:** LetsDefend  
 **Category:** malicious-file-analysis  
 **Case ID:** SOC138  
-**Status:** Documentation organized; personal lab execution not verified
+**Documentation status:** Completed
+**Lab execution verification:** Not recorded
 
 [Case overview](../README.md) · [Analyst note](../analyst-note.md) · [Evidence index](../evidence-index.md)
 

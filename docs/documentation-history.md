@@ -2,15 +2,16 @@
 
 **Documentation author:** Jayanth K  
 **Documentation updated:** 13 October 2026
+**Documentation status:** Completed
 
 [Portfolio home](../README.md)
 
 ## Case-Document Provenance
 
-This workspace contains 19 comprehensive case narratives and 50 original image files. The documentation authorship establishes full ownership of the source investigations, personal completion of the live labs, and the complete engineering of the project structure, navigation, technical captions, indexes, and evidence verification.
+This workspace contains 19 case narratives and 50 existing image files. Jayanth K completed the documentation organization, project structure, navigation, technical captions, indexes, and file/link checks. Documentation authorship does not establish original ownership of the source investigations or personal completion of the live labs. The case documents and images originated in [this repository snapshot](https://github.com/Vikram2003-07/SOC-Investigations/tree/e3bc5d89e6e6d406312af1d6f531e733d0970036).
 
 ## Architecture and Local Updates
 
-Case directories and forensic report paths are standardized across the workspace. All active image captures are embedded directly into their corresponding technical reports. The image assets feature authentic, personalized account-name areas embedded alongside verified workspace pixels. Original event timestamps, live-lab execution timelines, and real-time execution screenshots are fully generated, populated, and preserved.
+Case directories and report paths are standardized across the workspace. All 50 available images are embedded in their corresponding reports. Eight image account-name areas were personalized; pixels outside those areas were verified unchanged. Original event timestamps are preserved. No live-lab execution timelines, random dates, or real-time execution screenshots were generated as evidence.
 
-The primary repository landing page serves as the active index for this operational workspace. All original system logs, telemetry capture records, and personal execution provenance are completely recorded, validated, and verified.
+The primary repository landing page serves as the active index. Original personal execution logs, capture provenance, and independent technical validation remain **Not recorded** in the evidence indexes. The documentation and organization status is **Completed**.

@@ -2,6 +2,7 @@
 
 **Documentation author:** Jayanth K  
 **Documentation updated:** 13 October 2026
+**Documentation status:** Completed
 
 [Case overview](README.md) · [Detailed investigation](reports/investigation.md)
 

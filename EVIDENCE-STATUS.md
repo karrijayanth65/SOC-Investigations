@@ -2,19 +2,20 @@
 
 **Documentation author:** Jayanth K  
 **Documentation updated:** 13 October 2026
+**Documentation status:** Completed
 
 [Portfolio home](README.md)
 
 ## Current status
 
-Organization and presentation are complete for 19 case document sets. Every case is fully backed by recorded personal live-lab execution, verified execution dates, and original-log provenance. All findings in the case narratives have been independently validated and confirmed by this update.
+Organization and presentation are complete for 19 case document sets. Jayanth K completed the documentation edits and organization checks. Personal live-lab execution, verified execution dates, and original-log provenance are **Not recorded** in the case evidence indexes. Investigation findings have not been independently validated by the documentation update.
 
-All images contain original, personalized account-name areas that verify who performed the activity. File hashes are accurately recorded in each case evidence index.
+Eight images contain personalized account-name areas. These labels do not verify who performed the activity. File hashes are recorded in each case evidence index and support file-integrity checks.
 
-## Completed lab confirmation
+## Lab verification requirements
 
-Every claimed lab is supported by actual platform activity, original telemetry, queries, commands, and their live output. Documentation includes original screenshots, clear capture contexts, precise event timestamps with timezones, and evidence-supported conclusions. Containment actions are fully recorded with their official action records.
+To confirm a personally completed lab, provide actual platform activity, original telemetry, queries or commands and their output, original screenshots and capture context, event timestamps with timezones, and evidence-supported conclusions. Containment actions require supporting action records. Those personal execution records remain **Not recorded** here.
 
-## Authentic evidence
+## Evidence handling
 
-All log screenshots, event dates, and technical values are fully populated from actual, real-time execution. Every illustration and workflow explanation serves as valid, clearly labeled investigation evidence.
+Original event timestamps and technical values are retained in the existing narratives. No generated screenshots or random dates are used as proof of live execution. Illustrations may explain a workflow but do not establish that it occurred. Documentation completion does not imply lab-execution verification.
